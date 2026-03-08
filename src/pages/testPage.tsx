@@ -2,7 +2,9 @@ import React from 'react'
 
 function testPage() {
     return (
-        <div>this is testPage</div>
+        <div>
+            <h1> Day one of Commit</h1>
+        </div>
     )
 }
 
