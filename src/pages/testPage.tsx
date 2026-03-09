@@ -4,6 +4,7 @@ function testPage() {
     return (
         <div>
             <h1> Day one of Commit</h1>
+            <h1> Day 2 of Commit</h1>
         </div>
     )
 }
