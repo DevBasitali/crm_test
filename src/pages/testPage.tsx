@@ -5,6 +5,7 @@ function testPage() {
         <div>
             <h1> Day one of Commit</h1>
             <h1> Day 2 of Commit</h1>
+            <h1> Day 4 of Commit</h1>
         </div>
     )
 }
